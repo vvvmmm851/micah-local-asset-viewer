@@ -1,0 +1,2 @@
+849f4b5b571903d69eb1ec04728cab5e383d5c7632e7e17603e3200cc8dfc507  micah-local-asset-viewer-v1.0.0-Windows-x64.zip
+696dc2da356a4d92f8a5d113e426e105896b66915ea54fe1724dd9029ff66fc0  FFmpeg-9b6c8969e0-source.zip
