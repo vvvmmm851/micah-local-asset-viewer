@@ -1,1 +1,1 @@
-2d4f391776173a7a2930eb4dac5df66a295d464dd694db81dfd70da2610aa5e5  micah-local-asset-viewer-v1.0.0-Windows-x64.zip
+859657b97b0839e385ef95191f0a95cabf9ed2b0c6dad7303ed129c4a955cfc1  micah-local-asset-viewer-v1.0.0-Windows-x64.zip
